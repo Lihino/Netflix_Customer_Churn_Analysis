@@ -6,8 +6,8 @@ Welcome to the Netflix Customer Churn Data Project repository! This project demo
 Objective
 Clean the dataset and develop a dashboard using Microsoft Excel to consolidate churn rate data, enabling analytical reporting and informed decision making.
 Specifications
-•	**Data Sources**: Download data from Kaggle(hyperlink), provided as an excel file.
-•	**Data Quality**: Cleanse and resolve data quality issues prior to analysis
+_**Data Sources**: Download data from Kaggle(hyperlink), provided as an excel file.
+_	**Data Quality**: Cleanse and resolve data quality issues prior to analysis
 •	**Scope**: Focus on the latest dataset.
 •	**Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
 
